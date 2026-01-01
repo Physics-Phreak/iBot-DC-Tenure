@@ -1,0 +1,1 @@
+The program runs without any command-line arguments. The file path and gaussian blur kernel sizes are asked inputs after the program is run
