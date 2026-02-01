@@ -1,0 +1,22 @@
+Parameters Used:
+minDist: 40
+minRadius: 5
+maxRadius: 100
+param2: 50
+
+Statistics:
+Number of circles detected: 10
+Average radius: 28.80
+Maximum radius: 32
+Minimum radius: 26
+Circle Coordinates and Radii:
+Center: (32, 110), Radius: 30
+Center: (196, 30), Radius: 27
+Center: (194, 194), Radius: 30
+Center: (192, 110), Radius: 32
+Center: (140, 30), Radius: 30
+Center: (32, 194), Radius: 28
+Center: (82, 30), Radius: 27
+Center: (110, 192), Radius: 30
+Center: (26, 30), Radius: 26
+Center: (112, 104), Radius: 28

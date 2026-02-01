@@ -37,7 +37,6 @@ def inputHandler():
 
 def pencil_sketch_gray(img_raw, gaussian_blur_size):
     """
-    Docstring for pencil_sketch_gray
 
     :param img_raw: The image read from the specified path. It is in RGB format.
     :param gaussian_blur_size: The size of the Gaussian blur kernel.
@@ -61,7 +60,6 @@ def pencil_sketch_gray(img_raw, gaussian_blur_size):
 
 def pencil_sketch_color(img_raw, gaussian_blur_size):
     """
-    Docstring for pencil_sketch_color
     :param img_raw: The image read from the specified path. It is in RGB format.
     :param gaussian_blur_size: The size of the Gaussian blur kernel.
     :return: A tuple containing:

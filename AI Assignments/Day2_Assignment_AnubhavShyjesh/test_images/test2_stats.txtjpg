@@ -1,0 +1,68 @@
+Parameters Used:
+minDist: 20
+minRadius: 5
+maxRadius: 100
+param2: 85
+
+Statistics:
+Number of circles detected: 56
+Average radius: 67.20
+Maximum radius: 99
+Minimum radius: 38
+Circle Coordinates and Radii:
+Center: (556, 192), Radius: 77
+Center: (292, 674), Radius: 82
+Center: (462, 438), Radius: 76
+Center: (1190, 228), Radius: 73
+Center: (674, 70), Radius: 67
+Center: (650, 480), Radius: 80
+Center: (570, 176), Radius: 99
+Center: (1210, 384), Radius: 77
+Center: (946, 452), Radius: 74
+Center: (94, 252), Radius: 75
+Center: (436, 280), Radius: 88
+Center: (762, 368), Radius: 71
+Center: (286, 242), Radius: 65
+Center: (322, 236), Radius: 80
+Center: (908, 552), Radius: 68
+Center: (748, 632), Radius: 69
+Center: (264, 296), Radius: 75
+Center: (658, 92), Radius: 76
+Center: (214, 628), Radius: 69
+Center: (514, 316), Radius: 69
+Center: (790, 170), Radius: 76
+Center: (1062, 366), Radius: 71
+Center: (1090, 708), Radius: 68
+Center: (478, 614), Radius: 65
+Center: (226, 474), Radius: 72
+Center: (502, 644), Radius: 64
+Center: (666, 468), Radius: 58
+Center: (1216, 614), Radius: 72
+Center: (1174, 410), Radius: 82
+Center: (572, 336), Radius: 82
+Center: (458, 620), Radius: 72
+Center: (982, 188), Radius: 65
+Center: (964, 366), Radius: 70
+Center: (460, 302), Radius: 74
+Center: (356, 416), Radius: 62
+Center: (778, 234), Radius: 75
+Center: (494, 90), Radius: 62
+Center: (598, 628), Radius: 62
+Center: (950, 712), Radius: 69
+Center: (128, 508), Radius: 70
+Center: (272, 224), Radius: 71
+Center: (1132, 178), Radius: 62
+Center: (910, 64), Radius: 55
+Center: (204, 604), Radius: 60
+Center: (192, 468), Radius: 60
+Center: (1226, 94), Radius: 60
+Center: (478, 424), Radius: 56
+Center: (430, 436), Radius: 58
+Center: (422, 464), Radius: 52
+Center: (522, 652), Radius: 50
+Center: (890, 444), Radius: 46
+Center: (1210, 230), Radius: 60
+Center: (654, 56), Radius: 44
+Center: (404, 158), Radius: 42
+Center: (82, 294), Radius: 48
+Center: (456, 408), Radius: 38
